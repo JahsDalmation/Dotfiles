@@ -1,0 +1,2 @@
+# Dotfiles
+Basically .config XD
